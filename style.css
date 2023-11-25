@@ -1,0 +1,69 @@
+body, .section-title{
+  font-family: Roboto, sans-serif;
+}
+
+.logo-header{
+  max-width: 160px;
+}
+
+.navbar, footer{
+  background-color: #08571f;
+}
+
+.section-title span{
+  color: #9FDE2B;
+}
+
+#cabecalho .nav .nav-link, footer, footer a{
+  color: white;
+}
+
+#cabecalho .nav .nav-link.active{
+  background-color: white;
+  color: #9FDE2B;
+}
+
+.navbar-toggler{
+  background-color: #9FDE2B;
+}
+
+#sobre, #help{
+  background-color: rgb(234, 245, 214);
+}
+
+
+.text-colored{
+  color: #448BCB;
+}
+
+
+.nav-discover .nav-link.active,
+#news-updates button, #help button{
+  background-color: #08571f;
+  color: white;
+}
+
+.nav-discover .nav-link:hover{
+  color: #9FDE2B;
+}
+
+#saiba-mais{
+  color: #08571f;
+}
+
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+
+.social-links a{
+  text-decoration: none;
+}
+
+.social-links i{
+  color: #19C7D0;
+}
+
+footer a{
+  text-decoration: none;
+}
