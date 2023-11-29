@@ -38,9 +38,13 @@ body, .section-title{
 
 
 .nav-discover .nav-link.active,
-#news-updates button, #help button{
+.button-custom, #help button{
   background-color: #08571f;
   color: white;
+}
+
+.button-custom{
+  padding: 8px 40px;
 }
 
 .nav-discover .nav-link:hover{
