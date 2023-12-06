@@ -47,6 +47,11 @@ body, .section-title{
   padding: 8px 40px;
 }
 
+.button-custom:hover{
+  background-color: #fff;
+  border: 1px solid #08571f;
+}
+
 .nav-discover .nav-link:hover{
   color: #9FDE2B;
 }
